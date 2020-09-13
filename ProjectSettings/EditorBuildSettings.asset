@@ -7,4 +7,6 @@ EditorBuildSettings:
   m_Scenes: []
   m_configObjects:
     Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: f35d888a85189084a9a53a618437a386, type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 38f41078808db824f8269ab1fec5afff, type: 2}
     com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 1f4b348c97cf94f49891297c0e4b7342, type: 2}
+    xr.sdk.mock-hmd.settings: {fileID: 11400000, guid: 943018265b64c924b97d7b5a5f9ee190, type: 2}
